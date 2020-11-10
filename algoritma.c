@@ -10,3 +10,6 @@ printf ("masukkan b: ");
 scanf ("%d", &b);
 X = a + b;
 Y = X * X;
+printf("hasil dari pengkuadratan adalah: %d,Y);
+return 0;
+}
