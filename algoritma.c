@@ -1,2 +1,4 @@
 # Job Sheet 4 Algoritma & Pemrograman
-# Mengimplemetasikan sebuah permasalahan menggunakan bahasa C
+# Mengimplementasikan sebuah permasalahan menggunakan bahasa C
+# include <stdio.h>
+int main()
