@@ -6,3 +6,5 @@ int main()
   int a,b,X,Y ;
 printf ("masukkan a: ");
 scanf ("%d", &a);
+printf ("masukkan b: ");
+scanf ("%d", &b);
