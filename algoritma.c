@@ -8,3 +8,5 @@ printf ("masukkan a: ");
 scanf ("%d", &a);
 printf ("masukkan b: ");
 scanf ("%d", &b);
+X = a + b;
+Y = X * X;
